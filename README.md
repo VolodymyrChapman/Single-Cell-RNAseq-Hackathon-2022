@@ -3,7 +3,7 @@
 ## Introduction
 Winning entry to the University of Leeds Single Cell RNAseq Hackathon 2022 (https://conferences.leeds.ac.uk/bad-hackathon/).
 
-Challenge was to use an open single cell RNA dataset to determine cell evolution pathways.
+Challenge was to use an open access single cell RNA dataset to determine cell evolution pathways.
 
 ## Libraries required
 Analysed in R. Requires Seurat and Monocle3 libraries in R.
