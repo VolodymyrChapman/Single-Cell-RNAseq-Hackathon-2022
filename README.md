@@ -1,7 +1,7 @@
 # Single-Cell-RNAseq-Hackathon-2022
 
 ## Introduction
-Winning entry to the University of Leeds Single Cell RNAseq Hackathon 2022 (12/05/22).
+Winning entry to the University of Leeds Single Cell RNAseq Hackathon 2022 (https://conferences.leeds.ac.uk/bad-hackathon/).
 
 Challenge was to use an open single cell RNA dataset to determine cell evolution pathways.
 
