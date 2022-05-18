@@ -14,10 +14,10 @@ Installation as per creator instructions:
 * Monocle3 (https://cole-trapnell-lab.github.io/monocle3/docs/installation/)
 
 ## Team details
-* Amber Emmett: PhD student in Bioinformatics
+* Amber Emmett: PhD student in Bioinformatics https://www.linkedin.com/in/amber-emmett-0a393b20a/
 
 * Norah Almasoud:
 
 * Bailey Andrew: 
 
-* Volodymyr Chapman: PhD student in Computer Vision
+* Volodymyr Chapman: PhD student in Computer Vision https://www.linkedin.com/in/volodymyrchapman/
