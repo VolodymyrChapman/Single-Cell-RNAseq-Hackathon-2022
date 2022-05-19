@@ -5,6 +5,8 @@ Winning entry to the University of Leeds Single Cell RNAseq Hackathon 2022 (http
 
 Challenge was to use an open access single cell RNA dataset to determine cell evolution pathways.
 
+![Hackathon team image](https://github.com/VolodymyrChapman/Single-Cell-RNAseq-Hackathon-2022/blob/master/Images/Team.png)
+
 ## Libraries required
 Analysed in R. Requires Seurat and Monocle3 libraries in R.
 
@@ -21,3 +23,5 @@ Installation as per creator instructions:
 * Bailey Andrew: PhD student in AI for Diagnosis and Care https://www.linkedin.com/in/ethan-andrew-4867a2125/
 
 * Volodymyr Chapman: PhD student in Computer Vision https://www.linkedin.com/in/volodymyrchapman/
+
+![Team 3 presentation image](https://github.com/VolodymyrChapman/Single-Cell-RNAseq-Hackathon-2022/blob/master/Images/Presentation.png)
