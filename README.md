@@ -18,6 +18,6 @@ Installation as per creator instructions:
 
 * Norah Almasoud:
 
-* Bailey Andrew: 
+* Bailey Andrew: PhD student in AI for Diagnosis and Care https://www.linkedin.com/in/ethan-andrew-4867a2125/
 
 * Volodymyr Chapman: PhD student in Computer Vision https://www.linkedin.com/in/volodymyrchapman/
